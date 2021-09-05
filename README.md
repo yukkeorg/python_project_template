@@ -1,6 +1,6 @@
 # A Python project template
 
-This is a template for Python project with [Poety](https://python-poetry.org/) and a Docker container.
+This is a template for Python project with [Poetry](https://python-poetry.org/) and a Docker container.
 
 ## Thanks
 Reffered to when creating Docker scripts
